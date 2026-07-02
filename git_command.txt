@@ -7,3 +7,10 @@ git config --global user.email "mronak13@gmail.com"
 git config --global user.name "Ronak Makwana"                 
 git commit -m "added testing files"                                                                           
 git restore testing.py                                          
+
+git add git_command.txt                                                                                                                                     
+git commit -m "Added git commands"                                                                                                                          
+git remote add origin https://github.com/mronak2206/Github-Practice.git            
+git remote -v                                                                      
+git status                                                                         
+git push origin master                                                             
