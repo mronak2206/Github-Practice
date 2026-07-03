@@ -14,5 +14,3 @@ git remote add origin https://github.com/mronak2206/Github-Practice.git
 git remote -v                                                                      
 git status                                                                         
 git push origin master   
-
-New change
